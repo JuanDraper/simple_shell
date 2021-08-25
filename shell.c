@@ -198,4 +198,3 @@ int main(int argc, char *argv[], char *envp[])
 		free(new_envs[i]);
 	return (status);
 }
-

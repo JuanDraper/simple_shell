@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 /**
- * my_exit - exits the program 
+ * my_exit - exits the program
  * @av: args
  * @alias: aliases
  * @filename: used memory.

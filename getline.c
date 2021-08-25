@@ -6,7 +6,7 @@
  * _getline - input from stdin
  * @command:  buffer
  * @size: chatr count
- * @fd: file descriptor 
+ * @fd: file descriptor
  * Return: char count witn /n etc
  */
 

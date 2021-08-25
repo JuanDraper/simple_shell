@@ -163,7 +163,6 @@ void sig_handler(int signum)
 int main(int argc, char *argv[], char *envp[])
 {
 	char *command, *alias[1000], *filename, *new_envs[100];
-	new_envs[100] = NULL;
 	short getl_res, i, history_res = 1, file_res = 0;
 	int status = 0;
 

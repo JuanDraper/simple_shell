@@ -48,11 +48,11 @@ short get_input(char *av[], char **command, int *args)
 }
 /**
 * tokenize - convert input to token.
-* @command: Command 
+* @command: Command
 * @av: pointers to tokens
 * @status: Staatus.
 * @alias: array of aliases.
-* @filename: file 
+* @filename: file
 * @new_envs: New env.
 * Return: 1 in case of exit signal, 0 otherwise.
 */

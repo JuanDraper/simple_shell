@@ -18,7 +18,7 @@
 */
 short get_input(char *av[], char **command, int *args)
 {
-	short getl_res, write_err;
+	short getl_res = 0, write_err = 0;
 	int size = ARG_MAX, File_Des;
 
 	if (*args == 1)

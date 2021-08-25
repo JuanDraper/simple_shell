@@ -3,7 +3,7 @@
 * check_builtins - Checks if a builtin is invoked by user.
 * @av: Commands
 * @alias:  aliases.
-* @filename: file 
+* @filename: file
 * @new_envs: New envs
 * @status: status
 * Return: 0 if no builtin, 1 or 2 otherwise.

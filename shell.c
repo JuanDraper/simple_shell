@@ -168,6 +168,7 @@ int main(int argc, char *argv[], char *envp[])
 
 	alias[0] = NULL, signal(SIGINT, sig_handler);
 	new_envs[0] = NULL;
+	command = NULL;
 	while (1)
 	{
 		command = malloc(ARG_MAX);

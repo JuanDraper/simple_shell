@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include <stdlib.h>
 /**
- * print_number - prints an integer 
+ * print_number - prints an integer
  * @n:number
  * Return: void
  */

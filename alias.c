@@ -119,3 +119,4 @@ int check_new_alias(char *new_alias)
 		return (0);
 	return (1);
 }
+
